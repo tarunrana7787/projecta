@@ -1,9 +1,14 @@
 ﻿
 body {
-
+    background-color:lightblue;
 }
 .banner{
-width:80px;
-height:auto;
+width:900px;
+
 margin:auto;
+}
+.logo{
+    float:left;
+ height:100px;
+ width:auto;
 }
