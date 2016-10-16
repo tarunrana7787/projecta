@@ -1,6 +1,8 @@
-﻿
+﻿/**
+    Styles for Default.aspx goes here
+*/
 body {
-    background-color: lightblue;
+    background-color: lightgreen;
 }
 
 .banner{
@@ -13,13 +15,26 @@ body {
 }
 
 .logo {
-   float:left;
-   height: 100px;
-   width:200px;
+   border:3px solid black;
+   height: 900px;
+   width:400px;
    background-image:url(../Assets/logo.png); 
    background-position:center;
    background-size:contain;
    display:inline-block;
 }
+/**
+    Styles for Team.aspx goes here
+*/
+.field{
+    margin-left:30px;
+}
 
-
+/**
+    Styles for LogIn.aspx goes here
+*/
+.sign{
+    position:relative;
+    display:inline-block;
+    vertical-align:central;
+}

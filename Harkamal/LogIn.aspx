@@ -3,13 +3,11 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="sign">
         <h1>LogIn</h1>
-        <input type="text" style="width: 20%" placeholder="username" /><br />
-        <br />
-        <input type="text" style="width: 20%" placeholder="password" /><br />
-        <br />
+         <asp:TextBox runat="server" CssClass="sign" ID="UserNameTextBox" placeholder="Username" required="true" TabIndex="0"></asp:TextBox>
+         <asp:TextBox runat="server" CssClass="sign" ID="PasswordTextBox" placeholder="Password" required="true" TabIndex="0"></asp:TextBox>
         <input type="submit"  value="Sign in" /><br />
-        <br />
-        <a href="">Not registered yet? Sign up now! </a>
+        <br />  
+        <a href="#">Not registered yet? Sign up now! </a>
     </div>
 </asp:Content>
 
