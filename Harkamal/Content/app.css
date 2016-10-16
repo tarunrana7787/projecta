@@ -4,18 +4,22 @@ body {
 }
 
 .banner{
-    
-}
-
-#bannerLogo{
-    
+   background-image:url(../Assets/banner.png); 
+   height:250px;
+   width:550px;
+   background-position:center;
+   background-size:contain;
+   display:inline-block;
 }
 
 .logo {
    float:left;
-    height: 100px;
-    
-   
+   height: 100px;
+   width:200px;
+   background-image:url(../Assets/logo.png); 
+   background-position:center;
+   background-size:contain;
+   display:inline-block;
 }
 
 

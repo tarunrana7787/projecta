@@ -2,14 +2,9 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="col-md-offset-0 col-md-6">
-    
-    <div class="Logo">
-        <img src="Assets/logo.png" />
+        <div class="Logo"></div>
     </div>
-        </div>
-    <div class="banner">
-        <img id="bannerLogo" src="Assets/banner.png" height="200" />
-    </div>
-        
-    
+    <div class="banner"></div>
+
+
 </asp:Content>
