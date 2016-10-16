@@ -66,7 +66,15 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\africa.svg" />
+    <Content Include="Assets\Australia.svg" />
+    <Content Include="Assets\England.svg" />
+    <Content Include="Assets\india.png" />
     <Content Include="Assets\logo.png" />
+    <Content Include="Assets\New.svg" />
+    <Content Include="Assets\Pak.png" />
+    <Content Include="Assets\Sri.svg" />
+    <Content Include="Assets\West.svg" />
     <Content Include="Content\app.css" />
     <Content Include="Assets\banner.png" />
     <Content Include="Content\bootstrap-theme.css" />

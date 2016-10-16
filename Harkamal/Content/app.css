@@ -1,14 +1,21 @@
 ﻿
 body {
-    background-color:lightblue;
+    background-color: lightblue;
 }
-.banner{
-width:900px;
 
-margin:auto;
+.banner{
+    
 }
-.logo{
-    float:left;
- height:100px;
- width:auto;
+
+#bannerLogo{
+    
 }
+
+.logo {
+   float:left;
+    height: 100px;
+    
+   
+}
+
+

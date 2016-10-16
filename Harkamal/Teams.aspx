@@ -42,6 +42,20 @@
         A number of cricketers considered among the best in the world have hailed from the West Indies: Sir Garfield Sobers, Lance Gibbs, Gordon Greenidge, George Headley, Brian Lara, Clive Lloyd, Malcolm Marshall, Sir Andy Roberts, Alvin Kallicharran, Rohan Kanhai, Sir Frank Worrell, Sir Clyde Walcott, Sir Everton Weekes, Sir Curtly Ambrose, Michael Holding, Courtney Walsh, Joel Garner and Sir Viv Richards have all been inducted into the ICC Hall of Fame.[5]
     </fieldset>
     <fieldset class="field">
-        <legend class="legend"></legend>
+        <legend class="legend">New Zealand</legend>
+        The New Zealand cricket team, nicknamed the Black Caps, are the national cricket team representing New Zealand. They played their first Test in 1930 against England in Christchurch, New Zealand, becoming the fifth country to play Test cricket. 
+        From 1930 New Zealand had to wait until 1956, more than 26 years, for its first test victory, against the West Indies at Eden Park in Auckland.[3] They played their first ODI in the 1972–73 season against Pakistan in Christchurch.
+        The current Test, One-day and Twenty20 captain is Kane Williamson, who replaced Brendon McCullum who announced his retirement in late December, 2015. The national team is organised by New Zealand Cricket.
+    </fieldset>
+    <fieldset class="field">
+        <legend class="legend">Pakistan</legend>
+        Cricket in Pakistan has a history of even before the creation of the country in 1947. The first ever international cricket match in Karachi was held on 22 November 1935 between Sindh and Australian cricket teams. 
+        The match was seen by 5,000 Karachiites.[8] Following the independence of Pakistan in 1947, cricket in the country developed rapidly and Pakistan was given Test match status at a meeting of the Imperial Cricket Conference 
+        at Lord's Cricket Ground in England on 28 July 1952 following recommendation by India,[9] which, being the successor state of the British Raj, did not have to go through such a process. The first captain of the Pakistan national cricket team was Abdul Hafeez Kardar.
+    </fieldset>
+    <fieldset class="field">
+        <legend class="legend">Sri Lanka</legend>
+        The Sri Lankan cricket team, nicknamed The Lions, is the national cricket team of Sri Lanka in international cricket and is a full member of the International Cricket Council (ICC) with Test and One Day International (ODI) status.
+        [6] The team first played international cricket in 1926–27, and were later awarded Test status in 1982, which made Sri Lanka the eighth Test cricket playing nation. The team is administered by Sri Lanka Cricket. Angelo Mathews is the current captain of all formats of the game.
     </fieldset>
 </asp:Content>
