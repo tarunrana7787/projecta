@@ -7,12 +7,12 @@ body {
 
 .banner {
     background-image: url(../Assets/banner.png);
-    height: 200px;
-    width: 480px;
+    height: 150px;
+    width: 350px;
     background-position: center;
     background-size: contain;
     display: inline-block;
-    margin-left:150px;
+    margin-left:250px;
 }
 
 .logo {
