@@ -1,24 +1,18 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Teams.aspx.cs" Inherits="Harkamal.Teams" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+    <h1>Short Description</h1>
     <fieldset class="field">
-        <legend class="legend">Team India</legend>
+        <legend class="legend">India</legend>
         The Indian cricket team, also known as Team India and Men in Blue, represents India in international cricket. 
         Governed by the Board of Control for Cricket in India (BCCI), it is a full member of the International Cricket Council (ICC) with Test,
          One Day International (ODI) and Twenty20 International (T20I) status.
-         Although cricket was introduced to India by European merchant sailors in the 18th century, and the first cricket club was established in Calcutta in 1792,
-         India's national cricket team did not play its first Test match until 25 June 1932 at Lord's, becoming the sixth team to be granted Test cricket status.
-         In its first fifty years of international cricket, India was one of the weaker teams, winning only 35 of the first 196 Test matches it played. From 1932 India had to wait until 1952, 
-        almost 20 years for its first Test victory
     </fieldset>
     <fieldset class="field">
         <legend class="legend">South Africa</legend>
         The South African national cricket team, nicknamed the Proteas (after South Africa's national flower, the king protea), represents South Africa in international cricket.
          It is administered by Cricket South Africa. South Africa is a full member of the International Cricket Council (ICC) with Test and One Day International (ODI) status.
          As of 26 January 2016, South Africa has played 400 Test matches, winning 145 and losing 134.[4] The team has played 547 ODIs, winning 337, losing 189 and tying six, with 15 no-results.
-        [5] Finally, it has played 82 Twenty20 Internationals (T20Is), winning 49 and losing 32, with one no-result.[6]
-        On 20 August 2012, South Africa became the top ranked team in test cricket for the first time. 8 days later, on 28 August 2012, it became the first team to top the rankings in all three formats of the game.[7]
-        South Africa is currently ranked fifth in Tests, second in ODIs and third in T20Is by the ICC.[8]
     </fieldset>
     <fieldset class="field">
         <legend class="legend">England</legend>
