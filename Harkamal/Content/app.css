@@ -38,15 +38,17 @@ body {
     display: table;
     left:38%;
     align-content:center;
-    margin-bottom:5px;
+    margin-bottom:15px;
 }
 .loginText{
     font-family:Verdana;
     font-size:30px;
     left:37.2%;
     position:relative;
+    margin-bottom:15px;
 }
 .loginButton{
     left:37.2%;
     position:relative;
+    margin-bottom:15px;
 }
